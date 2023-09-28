@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "About the Author"
-author: "Ricky Martin
+author: "Ricky Martin"
 categories: journal
 tags: [documentation,sample]
 image: cutting.jpg
